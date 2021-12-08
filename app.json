@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "flatlistcolor",
+    "slug": "flatlistcolor",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "flatlistcolor"
+}
